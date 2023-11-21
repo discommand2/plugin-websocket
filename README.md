@@ -1,2 +1,2 @@
-# plugin-template
-A starter template for developing new plugins, ensuring consistency and ease of development.
+# plugin-websocket
+Facilitates WebSocket communication for real-time data exchange.
